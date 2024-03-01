@@ -12,11 +12,11 @@ export default {
     links: [
       {
         title: "GitHub",
-        url: "https://github.com/djyde/sairin",
+        url: "https://github.com/lingPoint",
       },
       {
-        title: "Twitter",
-        url: "https://twitter.com/randyloop",
+        title: "Rss",
+        url: "https://zerox.cc/api/rss",
       },
     ],
   },
