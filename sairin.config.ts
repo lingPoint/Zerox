@@ -4,11 +4,11 @@ import BlogTheme from "@sairinjs/sairin-theme-minimal";
 
 export default {
   siteConfig: {
-    title: 'Sairin'
+    title: 'Zerox'
   },
   theme: BlogTheme,
   themeConfig: {
-    title: `Sairin`,
+    title: `Zerox`,
     links: [
       {
         title: "GitHub",
