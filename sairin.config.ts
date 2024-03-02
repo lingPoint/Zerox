@@ -4,7 +4,8 @@ import BlogTheme from "@sairinjs/sairin-theme-minimal";
 
 export default {
   siteConfig: {
-    title: 'Zerox'
+    title: 'Zerox',
+    url: "https://zerox.cc",
   },
   theme: BlogTheme,
   themeConfig: {
