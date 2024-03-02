@@ -1,9 +1,6 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "paths": {
-      "sairin-theme-minimal": ["./sairin-theme-minimal"],
-    },
     "lib": [
       "dom",
       "dom.iterable",
