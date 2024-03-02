@@ -1,4 +1,4 @@
-import { Sairin } from '@sairinjs/core'
+import { Sairin } from '@lingpoint/core'
 
 import sairinConfig from '../sairin.config'
 
