@@ -1,6 +1,6 @@
 // theme
 import { SairinConfig } from "@sairinjs/core";
-import BlogTheme from "./packages/sairin-theme-minimal";
+import BlogTheme from "@lingpoint/zerox-theme";
 
 export default {
   siteConfig: {
