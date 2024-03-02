@@ -5,7 +5,7 @@ import BlogTheme from "@lingpoint/zerox-theme";
 export default {
   siteConfig: {
     title: 'Zerox',
-    url: "https://zerox.cc",
+    url: "https://zerox.cc/",
   },
   theme: BlogTheme,
   themeConfig: {
