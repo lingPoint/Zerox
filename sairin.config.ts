@@ -1,5 +1,5 @@
 // theme
-import { SairinConfig } from "@sairinjs/core";
+import { SairinConfig } from "@lingpoint/core";
 import BlogTheme from "@lingpoint/zerox-theme";
 
 export default {
