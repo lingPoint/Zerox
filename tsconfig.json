@@ -21,6 +21,7 @@
   },
   "paths": {
       "sairin-theme-minimal": ["./sairin-theme-minimal"],
+  },
   "include": [
     "next-env.d.ts",
     "**/*.ts",
