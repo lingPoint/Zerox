@@ -3,7 +3,7 @@ import { Sairin } from '@lingpoint/core'
 import sairinConfig from '../sairin.config'
 
 // import theme style
-import "@sairinjs/sairin-theme-minimal/style.css";
+import "@lingpoint/zerox-theme/style.css";
 
 export const sairin = new Sairin(sairinConfig)
 
