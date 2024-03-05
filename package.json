@@ -9,7 +9,7 @@
   "dependencies": {
     "@lingpoint/core": "^1",
     "@lingpoint/zerox-theme": "^1",
-    "next": ">=13.4.20-canary.13",
+    "next": "^13.4.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
